@@ -1,0 +1,10 @@
+[project]
+name = "serg"
+version = "0.1.0"
+description = "52-week SERG project"
+authors = [{name = "Jordan White"}]
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
