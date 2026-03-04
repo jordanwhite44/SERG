@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-src/serg/__init__.py
-src/serg.egg-info/PKG-INFO
-src/serg.egg-info/SOURCES.txt
-src/serg.egg-info/dependency_links.txt
-src/serg.egg-info/top_level.txt
